@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Hilux Flex",
+      "price": "120000",
+      "estado": "Nova",
+      "id": 1
+    },
+    {
+      "name": "XC60 T5 Momentum | mod. 2018 | 28.000km rodados",
+      "price": " 234950",
+      "estado": "Novo",
+      "id": 2
+    },
+    {
+      "name": "Fiat Toro 2020",
+      "price": "100280",
+      "estado": "Seminovo",
+      "id": 3
+    },
+    {
+      "name": "HB20 COMFORT 2019 34.000 KM",
+      "price": "51900",
+      "estado": "Seminovo",
+      "id": 4
+    },
+    {
+      "name": "VW T-Cross 1.4 Highline + Som Beats + Teto +Park Assist",
+      "price": "124900",
+      "estado": "Seminovo",
+      "id": 5
+    },
+    {
+      "name": "Ford fuzion titanium GTDI FWD 2.0 2015/2015 impecável",
+      "price": "250000",
+      "estado": "Novo",
+      "id": 6
+    },
+    {
+      "name": "Corolla",
+      "price": "91000",
+      "estado": "Seminovo",
+      "id": 7
+    }
+  ]
+}

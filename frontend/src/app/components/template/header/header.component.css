@@ -1,0 +1,36 @@
+mat-toolbar{
+    height: 70px;
+    color: white;
+    font-weight: 600;
+    
+}
+
+mat-toolbar div{
+    color: rgba(0, 0, 0, 0.735);
+    font-size: 0.8rem;
+    margin: auto;
+    
+}
+
+
+i{
+    margin-bottom: 4px;
+    vertical-align: sub;
+    font-size: 2rem;
+    color: red;
+}
+
+.header-content{
+    height: 80px;
+    width: 900px;
+    margin: auto;
+}
+
+@media screen and (max-width: 700px){
+    .inicio > p{
+       display: none;
+    }
+    
+}
+
+

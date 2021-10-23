@@ -1,0 +1,21 @@
+table{
+    width: 100%;
+}
+
+div{
+    font-weight: 500;
+    font-size: 1.6rem;
+    padding: 20px;
+}
+
+i{
+    margin-left: 5px;
+}
+
+.edit{
+    color: rgb(245, 238, 11);
+}
+
+.delete{
+    color: red;
+}

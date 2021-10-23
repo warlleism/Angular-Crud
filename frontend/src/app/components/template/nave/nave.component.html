@@ -1,0 +1,40 @@
+<mat-sidenav-container class="container">
+    <mat-sidenav class="sidenave" mode="side" opened fixedInViewport="true" >
+        <mat-nav-list class="nav-list">
+            <a mat-list-item routerLink="/">
+                <i class="material-icons">home</i>
+                <p>Início</p>
+            </a>
+            <a mat-list-item routerLink="/cadastro">
+                <i class="material-icons">
+                    how_to_reg
+                </i>
+                <p>Cadastrar</p>
+            </a>
+            <a mat-list-item routerLink="/read">
+                <i class="material-icons">
+                    inventory_2
+                </i>
+                <p>Produtos</p>
+            </a>
+            <a mat-list-item routerLink="">
+                <i class="material-icons">
+                    info
+                </i>
+                <p>Objetivo</p>
+            </a>
+            <a mat-list-item routerLink="">
+                <i class="material-icons">
+                    settings
+                </i>
+                <p>Configurações</p>
+            </a>
+        </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content class="content">
+        <div class="into-content mat-elevation-z6">
+            <router-outlet>
+            </router-outlet>
+        </div>
+    </mat-sidenav-content>
+</mat-sidenav-container>
